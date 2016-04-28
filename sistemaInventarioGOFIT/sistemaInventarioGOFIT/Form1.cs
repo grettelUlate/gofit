@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace sistemaInventarioGOFIT
 {
-    public partial class Form1 : Form
+    public partial class Interfaz : Form
     {
-        public Form1()
+        public Interfaz()
         {
             InitializeComponent();
         }
